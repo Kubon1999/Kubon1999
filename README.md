@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kubon1999
-- 👀 I’m interested in game dev
-- 🌱 I’m currently learning assembly and data wearhouses
-- 💞️ I’m looking to collaborate on some gamedev or ai projects
+- 👀 I’m interested in front-end and game dev
+- 🌱 I’m currently learning react and advanced js
+- 💞️ I’m looking to collaborate on some webdev and game dev projects
 - 📫 How to reach me kuba.wolodzko@gmail.com
 
 <!---

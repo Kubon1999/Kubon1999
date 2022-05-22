@@ -4,10 +4,12 @@
 
 
 <h3 align="left">About me:</h3>
-<p align="left">I am a Javascript Developer that focuses on front-end framework React. To advance my skills I am building an application called Movie Rate Now.</p>
+<p align="left">I am a Javascript Developer that focuses on front-end framework React. To advance my skills I am building an application called <a href="https://movie-rate-now.web.app/" target="_blank" >Movie Rate Now
+</a>
+</p>
 
 <h3 align="left">See my work:</h3>
-<a href="https://hansu-dev.web.app/" target="_blank" >https://hansu-dev.web.app/
+<a href="https://hansu-dev.web.app/" target="_blank" >Portfolio Page
 </a>
 
 <h3 align="left">Connect with me:</h3>

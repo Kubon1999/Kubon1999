@@ -5,7 +5,7 @@
 
 <h3 align="left">About me:</h3>
 <p align="left">I am a Javascript Developer that focuses on front-end framework React. To advance my skills I am building an application called <a href="https://movie-rate-now.web.app/" target="_blank" >Movie Rate Now
-</a>
+</a> In my free time I go to the gym, travel and read books.
 </p>
 
 <h3 align="left">See my work:</h3>

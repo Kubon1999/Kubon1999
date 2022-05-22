@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jakub</h1>
 
-![IMG_2524](https://user-images.githubusercontent.com/45209419/169689381-abf4dbe4-8fbb-4395-b9b8-107fe5b15603.JPG)
+![bg](https://user-images.githubusercontent.com/45209419/169689599-ec60af41-3532-42c8-818f-90c8b0ec0c48.jpg)
+
 
 <h3 align="left">About me:</h3>
 <p align="left">I am a Javascript Developer that focuses on front-end framework React. To advance my skills I am building an application called Movie Rate Now.</p>

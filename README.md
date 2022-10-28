@@ -14,6 +14,11 @@
 <a href="https://kuba.web.app/" target="_blank" >Portfolio Page
 </a>
 
+<h3 align="left">Want to work with me?:</h3>
+<a href="https://www.upwork.com/freelancers/~013ba56f49e968330f" target="_blank" >Upwork
+</a>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   +48 573 281 081

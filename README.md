@@ -3,13 +3,14 @@
 ![Blue Modern Geometric Youtube Banner](https://user-images.githubusercontent.com/45209419/198608392-900a8fde-dc7c-489d-a4e9-fcf44216e542.png)
 
 <h3 align="left">About me:</h3>
-<p align="left">I am a Javascript Developer that focuses on front-end library React. To advance my skills I am building an application called <a href="https://movie-rate-now.web.app/" target="_blank" >Movie Rate Now
+<p align="left">I am a Javascript Developer that focuses on front-end library React. To advance my skills I am building an application called <a href="https://kubon1999.github.io/mrbeast-website/" target="_blank" >MrBeast Example Website
+</a> and <a href="https://movie-rate-now.web.app/" target="_blank" >Movie Rate Now
 </a> 
 </p>
 <p align="left"> In my free time I go to the gym, read books and share my knowledge on <a href="https://www.youtube.com/channel/UCoSN5_vypjiJ8leuabiWLyg" target="_blank" >YouTube
 </a> </p>
 <h3 align="left">See my work:</h3>
-<a href="https://hansu-dev.web.app/" target="_blank" >Portfolio Page
+<a href="https://kuba.web.app/" target="_blank" >Portfolio Page
 </a>
 
 <h3 align="left">Connect with me:</h3>

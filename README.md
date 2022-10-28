@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Jakub</h1>
+<h1 align="center">Hi 👋, I'm Kuba</h1>
 
-![bg](https://user-images.githubusercontent.com/45209419/169689599-ec60af41-3532-42c8-818f-90c8b0ec0c48.jpg)
-
+![Blue Modern Geometric Youtube Banner](https://user-images.githubusercontent.com/45209419/198608392-900a8fde-dc7c-489d-a4e9-fcf44216e542.png)
 
 <h3 align="left">About me:</h3>
 <p align="left">I am a Javascript Developer that focuses on front-end library React. To advance my skills I am building an application called <a href="https://movie-rate-now.web.app/" target="_blank" >Movie Rate Now

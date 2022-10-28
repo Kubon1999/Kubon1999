@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kuba</h1>
 
-![Blue Modern Geometric Youtube Banner](https://user-images.githubusercontent.com/45209419/198608392-900a8fde-dc7c-489d-a4e9-fcf44216e542.png)
+![Blue Modern Geometric Youtube Banner (2)](https://user-images.githubusercontent.com/45209419/198612508-ec6e22d2-41c9-48b8-8423-07824b99fb90.png)
+
 
 <h3 align="left">About me:</h3>
 <p align="left">I am a Javascript Developer that focuses on front-end library React. To advance my skills I am building an application called <a href="https://kubon1999.github.io/mrbeast-website/" target="_blank" >MrBeast Example Website

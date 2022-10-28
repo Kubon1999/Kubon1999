@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kuba</h1>
 
-![Blue Modern Geometric Youtube Banner (2)](https://user-images.githubusercontent.com/45209419/198612508-ec6e22d2-41c9-48b8-8423-07824b99fb90.png)
+![Blue Modern Geometric Youtube Banner (1) (1)](https://user-images.githubusercontent.com/45209419/198613380-f24b5f01-5fa4-473c-b367-c260973c63a3.png)
 
 
 <h3 align="left">About me:</h3>

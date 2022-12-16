@@ -8,8 +8,7 @@
 </a> and <a href="https://movie-rate-now.web.app/" target="_blank" >Movie Rate Now
 </a> 
 </p>
-<p align="left"> In my free time I go to the gym, read books and share my knowledge on <a href="https://www.youtube.com/channel/UCoSN5_vypjiJ8leuabiWLyg" target="_blank" >YouTube
-</a> </p>
+<p align="left"> In my free time I go to the gym, read books. </p>
 <h3 align="left">See my work:</h3>
 <a href="https://kuba.web.app/" target="_blank" >Portfolio Page
 </a>
